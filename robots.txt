@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://anaknatuna.github.io/sitemap/sitemap-index.xml
+Host: https://anaknatuna.github.io
